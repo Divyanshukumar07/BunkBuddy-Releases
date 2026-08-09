@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.0.3",
-  "minimumVersion": "0.0.3",
-  "apkUrl": "https://github.com/Divyanshukumar07/BunkBuddy-Releases/releases/download/v0.0.3/BunkBuddy.apk",
+  "latestVersion": "0.0.4",
+  "minimumVersion": "0.0.4",
+  "apkUrl": "https://github.com/Divyanshukumar07/BunkBuddy-Releases/releases/download/v0.0.4/BunkBuddy.apk",
   "releaseNotes": "Automated update config via app.json version bump"
 }
